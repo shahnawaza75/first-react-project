@@ -36,23 +36,23 @@ body {
 
 button {
   border: none;
-  background-color: #d3d4e1;
+  background-color: #eceef4;
   padding: 1rem;
 }
 
 button:hover {
   cursor: pointer;
-  border: rgb(14, 38, 36) 1px solid;
+  border: rgb(15, 17, 16) 1px solid;
   border-radius: 5%;
 }
 
 .color-first {
-  color: #eee;
+  color: rgb(21, 20, 20);
   font-weight: bold;
 }
 
 .color-second {
-  color: rgb(15, 42, 42);
+  color: rgb(5, 11, 11);
 }
 
 .zero {

@@ -39,22 +39,22 @@ class Calculator extends React.PureComponent {
           <button className="color-first" type="submit" onClick={this.onClickHandler}>AC</button>
           <button className="color-first" type="submit" onClick={this.onClickHandler}>+/-</button>
           <button className="color-first" type="submit" onClick={this.onClickHandler}>%</button>
-          <button className="color-first" type="submit" onClick={this.onClickHandler}>÷</button>
+          <button className="color-first orange" type="submit" onClick={this.onClickHandler}>÷</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>7</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>8</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>9</button>
-          <button className="color-first" type="submit" onClick={this.onClickHandler}>x</button>
+          <button className="color-first orange" type="submit" onClick={this.onClickHandler}>x</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>4</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>5</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>6</button>
-          <button className="color-first" type="submit" onClick={this.onClickHandler}>-</button>
+          <button className="color-first orange" type="submit" onClick={this.onClickHandler}>-</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>1</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>2</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>3</button>
-          <button className="color-first" type="submit" onClick={this.onClickHandler}>+</button>
+          <button className="color-first orange" type="submit" onClick={this.onClickHandler}>+</button>
           <button className="color-second zero" type="submit" onClick={this.onClickHandler}>0</button>
           <button className="color-second" type="submit" onClick={this.onClickHandler}>.</button>
-          <button className="color-first" type="submit" onClick={this.onClickHandler}>=</button>
+          <button className="color-first orange" type="submit" onClick={this.onClickHandler}>=</button>
         </div>
       </div>
     );
