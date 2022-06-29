@@ -23,7 +23,7 @@ class Calculator extends React.PureComponent {
           <button className="color-s" type="submit">3</button>
           <button className="color-f orange" type="submit">+</button>
           <button className="color-s zero" type="submit">0</button>
-          <button className="color-s" type="submit">.</button>
+          <button className="color-s dot" type="submit">.</button>
           <button className="color-f orange" type="submit">=</button>
         </div>
       </div>

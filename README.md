@@ -26,7 +26,14 @@ The basic requirements for building the executable are:
 
 ```
 https://github.com/shahnawaza75/first-react-project.git
+
 ```
+
+## Setup
+
+- npm install
+- npm run build
+- npm run start
 
 ### Usage
 

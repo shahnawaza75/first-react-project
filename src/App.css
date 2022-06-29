@@ -11,7 +11,7 @@ body {
 .calculator-div {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 40%;
 }
 
 .displayNum {
@@ -63,3 +63,4 @@ button:hover {
   background-color: orange;
   border-bottom: 1px solid rgb(179, 176, 176);
 }
+
