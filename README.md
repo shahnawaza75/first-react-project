@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math-magicians-events
+# Math-magicians-components
 
 In this project, I add the logic needed to make the Calculator component I developed in the previous project actually work.
 
