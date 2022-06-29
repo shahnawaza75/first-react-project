@@ -37,7 +37,7 @@ class Calculator extends React.Component {
       <div className="calculator-div">
         <input className="displayNum" type="text" id="result" placeholder="0" disabled />
         <div className="calculatorButtons">
-              <button className="color-first" type="submit" onClick={this.onClickHandler}>AC</button>
+          <button className="color-first" type="submit" onClick={this.onClickHandler}>AC</button>
           <button className="color-first" type="submit" onClick={this.onClickHandler}>+/-</button>
           <button className="color-first" type="submit" onClick={this.onClickHandler}>%</button>
           <button className="color-first" type="submit" onClick={this.onClickHandler}>÷</button>
