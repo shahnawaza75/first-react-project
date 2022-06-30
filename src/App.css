@@ -11,7 +11,7 @@ body {
 .calculator-div {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 40%;
 }
 
 .displayNum {
@@ -19,6 +19,7 @@ body {
   padding: 1.5rem 0.2rem;
   text-align: end;
   background-color: rgb(24, 69, 68);
+  color: white;
 }
 
 .displayNum::placeholder {
