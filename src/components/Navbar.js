@@ -4,21 +4,14 @@ import './Navbar.css';
 
 const Navbar = () => (
   <div className="navbar">
-
-    <div>
-      <Link to="/">Home</Link>
+  <h1>Math Magicians</h1>
+    <div className='Navbar-links'>
+      <div><Link className='NavLink' to="/">Home</Link></div>
+        <div className='divline'></div>
+      <div><Link className='NavLink' to="/calculator">Calculator</Link></div>
+          <div className='divline'></div>
+      <div><Link className='NavLink' to="/quote">Quote</Link></div>
     </div>
-
-    <div>
-      <Link to="/calculator">Calculator</Link>
-    </div>
-
-    <div>
-      <Link to="/quote">Quote</Link>
-    </div>
-
   </div>
-
 );
-
 export default Navbar;
