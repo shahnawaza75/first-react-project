@@ -2,14 +2,13 @@
 
 # Math-magicians-refactor-with-hooks
 
-In this project I have refactored the Calculator component I developed in the past projects. Instead of using class based components, I will use now hooks.
+In this project, I have created a full website for the Math magicians app, consisting of several pages and using the components I already created.
 
 ## Built With
 
 - CSS
 - Create React App (CRA)
-- Gitflow
-- Hooks
+- Gitflow   
 
 
 ### Prerequisites
