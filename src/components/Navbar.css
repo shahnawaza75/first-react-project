@@ -21,6 +21,32 @@
   height: 20px;
 }
 
-h4 {
-  margin-top: 30px;
+.title {
+  margin-top: 50px;
+}
+
+.cal-head {
+  margin-top: 20px;
+}
+
+.home-p {
+  margin-top: 60px;
+}
+
+.home-p2 {
+  margin-top: 40px;
+
+}
+
+.quote-p {
+  text-align: center;
+  justify-content: center;
+  font-size: larger;
+
+}
+
+.quote-header {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
 }
