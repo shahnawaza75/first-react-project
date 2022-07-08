@@ -35,18 +35,15 @@
 
 .home-p2 {
   margin-top: 40px;
-
 }
 
 .quote-p {
-  text-align: center;
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+  display: flex;
   justify-content: center;
-  font-size: larger;
-
-}
-
-.quote-header {
-  align-items: center;
-  text-align: center;
-  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 1%;
 }
