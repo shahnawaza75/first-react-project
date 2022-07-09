@@ -4,9 +4,9 @@ const Quote = () => (
   <div className="quote-header">
     <div className="quote-p">
       <h2>
-        Lorem,ipsum dolor sit amet consectetur adipisicing elit.Lorem,ipsum dolor sit amet .
+        Mathematics is not about numbers, equations, computations,
         <br />
-        Repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque adipisicing?
+        or algorithms: it is about undertstanding. -William Paul Thurston
       </h2>
     </div>
 
