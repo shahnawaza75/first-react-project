@@ -1,19 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math-magicians
+# Math-magicians-refactor-with-hooks
 
-This is my first project of the Math Magicians application. I set up the environment and tools needed to develop a React application. In this project, I will develop the actual application.
-The Math Magicians app was created using Create React App (CRA) and following the instructions in the documentation.
+In this project, I have created a full website for the Math magicians app, consisting of several pages and using the components I already created.
 
 ## Built With
 
 - CSS
 - Create React App (CRA)
-- Gitflow
+- Gitflow   
 
-## Live Demo
-
-Coming soon!
 
 ### Prerequisites
 
@@ -27,7 +23,14 @@ The basic requirements for building the executable are:
 
 ```
 https://github.com/shahnawaza75/first-react-project.git
+
 ```
+
+## Setup
+
+- npm install
+- npm run build
+- npm run start
 
 ### Usage
 
